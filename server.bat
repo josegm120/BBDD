@@ -1,0 +1,1 @@
+ssh -i C:\Users\gomez\.ssh\ssh-key-2023-05-05.key ubuntu@130.61.243.170
